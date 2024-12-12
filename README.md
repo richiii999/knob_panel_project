@@ -1,3 +1,5 @@
+Group Members: Richard Nelson, Ali Siddiqi, Ali Ayash
+
 The only modified code file was the "ui_light_2color.c" file. The changes are summarized as follows:
 - The audio header was included
 - The switch-case for light level was moved to it's own task
